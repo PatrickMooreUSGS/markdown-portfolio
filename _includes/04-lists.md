@@ -1,5 +1,2 @@
-*List
-*List
-*List
--Trying
--Trying
+* List
+- Other List
