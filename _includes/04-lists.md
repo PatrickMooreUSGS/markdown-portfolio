@@ -1,2 +1,2 @@
-* List
-- Other List
+[]List
+[]Other List
